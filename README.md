@@ -22,15 +22,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Good Things to Know</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+ - Click on specific positions for a better understanding!
+ 	- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+	- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+	- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
+	- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
+	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
+	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
-<h2>Configuration Steps</h2>
+<h3>Step 1: Open osTicket and Log in, use the credentials you made during the installation tutorial.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
