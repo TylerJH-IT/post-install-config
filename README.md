@@ -120,7 +120,6 @@ We will now create another agent but their name will be John this time. So
 - Name: john.doe(@)osticket.com
 - Username: john.doe
 - Follow the same steps as above, except make some changes to the Primary Department. Select the department dropdown menu and click support. Then for the Role dropdown menu click View Only.
-- Then for Extended access, select department, support, and save changes.
 
 </p>
 <br />
