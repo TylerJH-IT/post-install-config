@@ -41,6 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Step 2: Configure Roles </h3>
 Make sure you are in the Admin panel (check the top right of the screen to see which panel you are in. If it says Agent you are in the Admin panel.)
+
 Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then select the permissions tab and check every box under the tickets, tasks and knowledgebase sections. Now click add role.
 
 </p>
@@ -52,7 +53,12 @@ Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then sele
 <p>
 
 <h3>Step 3: Configure Departments</h3>
-Ensure you are still in the admin panel, select the agent tab, departments, and add new department. We'll name it System Administrators. Now select Create Department.
+Ensure you are still in the admin panel, select the agent tab, departments, and add new department. 
+
+We'll name it System Administrators. 
+
+Now select Create Department.
+
 </p>
 <br />
 
@@ -62,7 +68,13 @@ Ensure you are still in the admin panel, select the agent tab, departments, and 
 <p>
 
 <h3>Step 4: Configure Teams </h3>
-Select the Agent tab again, Teams, and add new team. Name it Level II Support (And that's Roman Numeral 2 so two Uppercase I's) Then go to the Members tab and select yourself in the select agent dropdown menu. Now select create team.
+Select the Agent tab again, Teams, and add new team. 
+
+Name it Level II Support. 
+
+Then go to the Members tab and select yourself in the select agent dropdown menu. 
+
+Now select create team.
 
 </p>
 <br />
@@ -75,7 +87,9 @@ Select the Agent tab again, Teams, and add new team. Name it Level II Support (A
 <p>
 
 <h3> Step 5: Allow anyone to create tickets.</h3>
-Select settings then Users. Make sure the following box is unchecked. Registration Required: Require Registration and login to create tickets.
+Select settings then Users. Make sure the following box is unchecked. 
+
+- Registration Required: Require Registration and login to create tickets.
 
 </p>
 <br />
@@ -89,6 +103,7 @@ Select settings then Users. Make sure the following box is unchecked. Registrati
 
 <h3>Step 6: Configure Agents</h3>
 Select the agent tab one last time and click new agents. 
+
 For our first agent they will be.
 
 - Name: jane Doe
