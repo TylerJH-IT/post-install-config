@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <h3>Step 2: Configure Roles </h3>
-Make sure you are in the Admin panel (check the top right of the screen to see which panel you are in. If it says Agent you are in the Admin panel.)
+Make sure you are in the Admin panel (check the top right of the screen to see which panel you are in. If it says Agent Panel you are in the Admin panel.)
 
 Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then select the permissions tab and check every box under the tickets, tasks and knowledgebase sections. Now click add role.
 
