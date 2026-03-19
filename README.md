@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Step 1: Open osTicket and Log in, use the credentials you made during the installation tutorial. </h3>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JgZbVg5.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
 </p>
 <p>
 
@@ -48,22 +48,48 @@ Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then sele
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NPclNBp.png" height="80%" width="80%" alt="Disk Sanitization "/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/ng60IFq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/dfEzAAq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/nypR3fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/u7vzMAW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/rUX6Ir4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <h3>Step 3: Configure Departments</h3>
 Ensure you are still in the admin panel, select the agent tab, departments, and add new department. 
 
-We'll name it System Administrators. 
-
-Now select Create Department.
+We'll name it System Administrators. Now select Create Department.
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K4810m4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/jXdzzlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Y2eFzR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -82,7 +108,19 @@ Now select create team.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zs61keM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/uJ9wzf6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/K1IEis4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/0kvxGq1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -97,7 +135,11 @@ Select settings then Users. Make sure the following box is unchecked.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nBBrl51.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/IpziKtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -115,6 +157,36 @@ For our first agent they will be.
 - Select Team tab, select the team dropdown menu, Level II support, and select add.
 - Now click create.
 
+</p>
+<br />
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oxc03Py.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/UnfoIIE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/L9pjrc4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/5GlKPBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/mME12aR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/mcvBVqW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 We will now create another agent but their name will be John this time. So
 
 - Name: john.doe(@)osticket.com
@@ -127,12 +199,24 @@ We will now create another agent but their name will be John this time. So
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mVBs4NU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/mRp9o3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/a7GYrDi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/kx62jc4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <h3>Step7: Configure Users</h3>
-For this we'll need to be in the agent panel, so click agent panel in the top right.
+For this we'll need to be in the agent panel, so click agent panel in the top right. You'll know if your in it if it says Admin Panel top right.
 
 Then select the Users tab then click add user.
 
@@ -152,7 +236,19 @@ Select the user tab again to create another user.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7Oq6b3M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/RvG2coe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/SIWHNc8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/IGYVGLR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -184,7 +280,23 @@ Select the manage tab, SLA, add new SLA plan.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/grAE7bU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/3mKbcLR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Vo2izJE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/QHV00J7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Z75MrFE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -209,6 +321,30 @@ Select the Manage tab, Help topics, add new help topic.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8ghNqqk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/CD5zBpl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/uK05c0L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/QQlWdWY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/UKcwWQt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/a8AzSGv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/FOm5zBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
