@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Step 1: Open osTicket and Log in, use the credentials you made during the installation tutorial. </h3>
 
 <p>
-<img src="https://i.imgur.com/JgZbVg5.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
