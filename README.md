@@ -17,6 +17,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Good Things to Know</h2>
 
+ - Links needed for this
+	- http://localhost/osTicket/scp/login.php
+
  - Click on specific positions for a better understanding!
  	- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
 	- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
@@ -156,7 +159,7 @@ For our first agent they will be.
 
 Once you've made Jane's password we'll be giving her roles and put her in a team.
 
-- In extended access select department, support, then click add, and then supreme admin in the roles.
+- In access select department, support, then select supreme admin in the roles.
 - Select Team tab, select the team dropdown menu, Level II support, and select add.
 - Now click create.
 
@@ -173,9 +176,11 @@ Once you've made Jane's password we'll be giving her roles and put her in a team
 
 We will now create another agent but their name will be John this time. So
 
+- Select Agents then Add New Agent
 - Name: john.doe(@)osticket.com
 - Username: john.doe
-- Follow the same steps as above, except make some changes to the Primary Department. Select the department dropdown menu and click support. Then for the Role dropdown menu click View Only.
+- Make sure the password is different from Janes
+- Follow the same steps as Jane Doe, except make some changes to the Primary Department. Select the department dropdown menu and click support. Then for the Role dropdown menu click View Only. Do not assign him to a team
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -212,7 +217,7 @@ Then select the Users tab then click add user.
 
 <h3> Step 11: Configure Users part 2</h3>
 
-Select the user tab again to create another user.
+Select the users tab again to create another user.
 
 - Email Address: Ken(@)osticket.com
 - Full Name: Ken Ken
@@ -299,9 +304,10 @@ Select the manage tab, SLA, add new SLA plan.
 <h2> Configuring help topics</h2>
 
 <h3>Step 15: Configure help topics</h3>
-We will create four help topics.
+We will create five help topics.
 
 Select the Manage tab, Help topics, add new help topic.
+After making each help topic, you'll need to click Help Topics then Add New Help Topic each time.
 
 - Business Critical Outage. Report a problem.
 - Make another one
