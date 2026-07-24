@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-<h3>Step 2: Configure Roles </h3>
+<h3>Step 2: Admin panel vs Agent Panel </h3>
 Make sure you are in the Admin panel (check the top right of the screen to see which panel you are in. If it says Agent Panel you are in the Admin panel.)
 
 <p>
@@ -49,7 +49,7 @@ Make sure you are in the Admin panel (check the top right of the screen to see w
 </p>
 <p>
 
-<h3>Step 3: Finding the admin role</h3>
+<h3>Step 3: Configuring Roles</h3>
 Select the Agent tab, Roles, then Add new role.
 
 <p>
