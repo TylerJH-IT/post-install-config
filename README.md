@@ -48,13 +48,9 @@ Make sure you are in the Admin panel (check the top right of the screen to see w
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-<h3>Step 3: Making the admin roles</h3>
-Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then select the permissions tab and check every box under the tickets, tasks and knowledgebase sections. Now click add role.
+<h3>Step 3: Finding the admin role</h3>
+Select the Agent tab, Roles, then Add new role.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -69,7 +65,27 @@ Select the Agent tab, Roles, then Add new role. Name it Supreme Admin, then sele
 </p>
 <p>
 
-<h3>Step 4: Configure Departments</h3>
+<h3> Step 4: Creating the admin role</h3>
+Name the role Supreme Admin, then select the permissions tab and check every box under the tickets, tasks and knowledgebase sections. Now click add role.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3>Step 5: Configure Departments</h3>
 Ensure you are still in the admin panel, select the agent tab, departments, and add new department. 
 
 We'll name it System Administrators. Now select Create Department.
@@ -89,7 +105,7 @@ We'll name it System Administrators. Now select Create Department.
 
 <h2> Creating teams and allowing users to create tickets.</h2>
 
-<h3>Step 5: Configure Teams </h3>
+<h3>Step 6: Configure Teams </h3>
 Select the Agent tab again, Teams, and add new team. 
 
 Name it Level II Support. 
@@ -110,11 +126,15 @@ Now select create team.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
-<h3> Step 6: Allow anyone to create tickets.</h3>
+<h3> Step 7: Allow anyone to create tickets.</h3>
 Select settings then Users. Make sure the following box is unchecked. 
 
-- Registration Required: Require Registration and login to create tickets.
+- Registration Required: Require Registration and login to create tickets. This box is usually disabled, but better to make sure it's disabled.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -131,13 +151,24 @@ Select settings then Users. Make sure the following box is unchecked.
 
 <h2> Creating agents that can work on tickets. </h2>
 
-<h3>Step 7: Configure Agents part 1</h3>
+<h3>Step 8: Creating Agents</h3>
 Select the agent tab one last time and click new agents. 
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3>Step 9: Jane Agent part 1</h3>
 
 For our first agent they will be.
 
 - Name: jane Doe
-- Email: kane.doe(@)osticket.com
+- Email: jane.doe(@)osticket.com
 - Username: jane.doe
 - Then click Set Password and uncheck the box that says "Send the Agent a Password Reset Email"
 - Set your password to anything you like, and uncheck the box that says "Require Password Change at Next Login", now select Set.
@@ -150,12 +181,8 @@ For our first agent they will be.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-<h3> Step 8: Configure agents part 2</h3>
+<h3> Step 10: Jane Agent part 2</h3>
 
 Once you've made Jane's password we'll be giving her roles and put her in a team.
 
@@ -172,7 +199,7 @@ Once you've made Jane's password we'll be giving her roles and put her in a team
 </p>
 <p>
 
-<h3>Step 9: Configure Agents part 3</h3>
+<h3>Step 11: John agent</h3>
 
 We will now create another agent but their name will be John this time. So
 
@@ -197,10 +224,25 @@ We will now create another agent but their name will be John this time. So
 
 <h2> Creating users for tickets.</h2>
 
-<h3>Step 10: Configure Users part 1</h3>
+<h3>Step 12: Creating Users</h3>
 For this we'll need to be in the agent panel, so click agent panel in the top right. You'll know if your in it if it says Admin Panel top right.
 
 Then select the Users tab then click add user.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3> Step 13: Karen and Ken</h3>
 
 - Email Address: Karen(@)osticket.com
 - Full Name: Karen Karen
@@ -210,12 +252,6 @@ Then select the Users tab then click add user.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<h3> Step 11: Configure Users part 2</h3>
 
 Select the users tab again to create another user.
 
@@ -227,15 +263,31 @@ Select the users tab again to create another user.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2> Creating SLA's</h2>
+
+<h3>Step 14: Configure Service Level Agreements (SLA)/h3>
+	
+Back to the admin panel so first click admin panel in the top right.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-<h2> Creating SLA's</h2>
-
-<h3>Step 12: Configure Service Level Agreements (SLA) part 1</h3>
-Back to the admin panel so first click adimn panel in the top right.
+<h3>Step 15: Creating SLA's</h3>
 
 We will be creating three SLA's for this.
 
@@ -251,16 +303,6 @@ Select the manage tab, SLA, add new SLA plan.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<h3> Step 13: Configure Service Level Agreements (SLA) part 2 </h3>
 
 - Name: Sev-B
 - Grace Period: 4
@@ -273,15 +315,6 @@ Select the manage tab, SLA, add new SLA plan.
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<h3> Step 14: Configure Service Level Agreements (SLA) part 3 </h3>
 
 - Name: Sev-C
 - Grace Period: 8
@@ -292,21 +325,27 @@ Select the manage tab, SLA, add new SLA plan.
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 <h2> Configuring help topics</h2>
 
-<h3>Step 15: Configure help topics</h3>
-We will create five help topics.
+<h3>Step 16: Configure help topics</h3>
+We will be creating five help topics next.
 
 Select the Manage tab, Help topics, add new help topic.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3>Step 17: Creating Help topics</h3>
+
+And now finally, to create the help topics.
+
 After making each help topic, you'll need to click Help Topics then Add New Help Topic each time.
 
 - Business Critical Outage. Report a problem.
@@ -319,6 +358,14 @@ After making each help topic, you'll need to click Help Topics then Add New Help
 - One more
 - Other. General Inquiry.
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
