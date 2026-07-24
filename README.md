@@ -88,7 +88,7 @@ Name the role Supreme Admin, then select the permissions tab and check every box
 <h3>Step 5: Configure Departments</h3>
 Ensure you are still in the admin panel, select the agent tab, departments, and add new department. 
 
-We'll name it System Administrators. Now select Create Department.
+We'll name it System Administrators, do not change any settings. Now select Create Department.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -152,7 +152,7 @@ Select settings then Users. Make sure the following box is unchecked.
 <h2> Creating agents that can work on tickets. </h2>
 
 <h3>Step 8: Creating Agents</h3>
-Select the agent tab one last time and click new agents. 
+Select the agent tab one last time and click Add New Agent. 
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
