@@ -94,7 +94,7 @@ Select the Agent tab again, Teams, and add new team.
 
 Name it Level II Support. 
 
-Then go to the Members tab and select yourself in the select agent dropdown menu. 
+Then go to the Members tab and select yourself in the select agent dropdown menu, remember to click Add.
 
 Now select create team.
 
